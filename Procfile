@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/FlightDirector-1.0-SNAPSHOT.jar
+web: java -jar target/FlightDirector-1.0-SNAPSHOT.jar
